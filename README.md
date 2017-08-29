@@ -1,3 +1,4 @@
 # Springboard-Data-Science-Career-Track
 
-A repository for code and files in completion of the Springboard Data Science Career Track beginning August 2017.
+Author: Molly McNamara
+Purpose: A repository for code and files in completion of the Springboard Data Science Career Track beginning August 2017.

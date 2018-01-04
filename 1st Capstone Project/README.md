@@ -32,3 +32,6 @@ Two specific areas could help expand the utility of this analysis:
 * Inclusion of emergency room visits and hospital admissions for respiratory diseases in order to better predict the actual increase in illness caused by pollutant levels.  Unfortunately, the only available data through free sources was monthly/annual rates of hospital/ER visits, which do not provide the granularity necessary to make accurate predictions.
 * It would be interesting to evaluate weather data leading up to any given day and determine how influential that is on pollutant levels, including if a rolling 3-day average is a better predictor and how large the window of influence is.
 
+For further information, please see the project files:
+* <a href="https://github.com/bouncebarkrun/Springboard-Data-Science-Career-Track/tree/master/1st%20Capstone%20Project/Project%20Code">Project Code Files</a>
+* <a href="https://github.com/bouncebarkrun/Springboard-Data-Science-Career-Track/tree/master/1st%20Capstone%20Project/Final%20Files">Project Final Report and Presentation</a>
